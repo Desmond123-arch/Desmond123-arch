@@ -22,8 +22,9 @@ I'm  a passionate full-stack developer from Ghana
 <img  align="left" alt="C" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
 <img  align="left" alt="C" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 <img  align="left" alt="C" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-<img  align="left" alt="C" width="40px" style="padding-right:10px"
+<img align="left" alt="C" width="40px" style="padding-right:10px" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+          
           
 
 <br/><br/><br/>
