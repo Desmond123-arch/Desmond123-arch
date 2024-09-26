@@ -27,12 +27,12 @@ I'm  a passionate full-stack developer from Ghana
 ### ** 🎨 Playground**
 Small things I create while learning
 
-- **[Advice Generator](https://desmends27.github.io/advice-generator-app/) (javascript,  html)**
-- **[Blog App](https://github.com/Desmends27/blog_app_flask) (flask,  html)**
+- **[Advice Generator](https://Desmond123-arch.github.io/advice-generator-app/) (javascript,  html)**
+- **[Blog App](https://github.com/Desmond123-arch/blog_app_flask) (flask,  html)**
 - **[Ip address tracker](ip-address-tracker-master-taupe.vercel.app) (javascript,  react)**
-- **[Terminal](https://github.com/Desmends27/terminal-gpt) (Python, Bash)**
-- **[Book Swap](https://github.com/Desmends27/book_swap) (React, Django, Django Rest, Djano JWT)**
-- **[Printf](https://github.com/Desmends27/printf) (C, Bash)**
+- **[Terminal](https://github.com/Desmond123-arch/terminal-gpt) (Python, Bash)**
+- **[Book Swap](https://github.com/Desmond123-arch/book_swap) (React, Django, Django Rest, Djano JWT)**
+- **[Printf](https://github.com/Desmond123-arch/printf) (C, Bash)**
 
   ### 📊 Stats
 ![Desmond123-arch's Stats](https://github-readme-stats.vercel.app/api?username=Desmond123-arch&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
