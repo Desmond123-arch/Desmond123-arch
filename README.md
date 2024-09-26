@@ -26,10 +26,10 @@ I'm  a passionate full-stack developer from Ghana
 <br/><br/><br/>
 ### ** 🎨 Playground**
 Small things I create while learning
-
-- **[Advice Generator](https://Desmond123-arch.github.io/advice-generator-app/) (javascript,  html)**
+- **[Chat application](https://github.com/Desmond123-arch/keep-in-touch) (react,  express)**
+- **[Advice Generator](https://github.com/Desmond123-arch/advice-generator-app) (javascript,  html)**
 - **[Blog App](https://github.com/Desmond123-arch/blog_app_flask) (flask,  html)**
-- **[Ip address tracker](ip-address-tracker-master-taupe.vercel.app) (javascript,  react)**
+- **[Ip address tracker](https://github.com/Desmond123-arch/ip-address-tracker-master) (javascript,  react)**
 - **[Terminal](https://github.com/Desmond123-arch/terminal-gpt) (Python, Bash)**
 - **[Book Swap](https://github.com/Desmond123-arch/book_swap) (React, Django, Django Rest, Djano JWT)**
 - **[Printf](https://github.com/Desmond123-arch/printf) (C, Bash)**
