@@ -22,17 +22,20 @@ I'm  a passionate full-stack developer from Ghana
 <img  align="left" alt="C" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
 <img  align="left" alt="C" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 <img  align="left" alt="C" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+<img  align="left" alt="C" width="40px" style="padding-right:10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+          
 
 <br/><br/><br/>
 ### ** 🎨 Playground**
 Small things I create while learning
 - **[Chat application](https://github.com/Desmond123-arch/keep-in-touch) (react,  express)**
-- **[Advice Generator](https://github.com/Desmond123-arch/advice-generator-app) (javascript,  html)**
-- **[Blog App](https://github.com/Desmond123-arch/blog_app_flask) (flask,  html)**
-- **[Ip address tracker](https://github.com/Desmond123-arch/ip-address-tracker-master) (javascript,  react)**
-- **[Terminal](https://github.com/Desmond123-arch/terminal-gpt) (Python, Bash)**
 - **[Book Swap](https://github.com/Desmond123-arch/book_swap) (React, Django, Django Rest, Djano JWT)**
+- **[Blog App](https://github.com/Desmond123-arch/blog_app_flask) (flask,  html)**
+- **[Terminal](https://github.com/Desmond123-arch/terminal-gpt) (Python, Bash)**
 - **[Printf](https://github.com/Desmond123-arch/printf) (C, Bash)**
+- **[Advice Generator](https://github.com/Desmond123-arch/advice-generator-app) (javascript,  html)**
+- **[Ip address tracker](https://github.com/Desmond123-arch/ip-address-tracker-master) (javascript,  react)**
 
   ### 📊 Stats
 ![Desmond123-arch's Stats](https://github-readme-stats.vercel.app/api?username=Desmond123-arch&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
