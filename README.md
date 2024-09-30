@@ -1,6 +1,6 @@
 ## Hi, I'm Desmond 👋
 
-I'm  a passionate full-stack developer from Ghana
+I'm  a passionate developer from Ghana
 
 - 🌱 I’m currently <i>DOING HARD THINGS </i>
 - 👯 I’m looking to collaborate on fun projects
