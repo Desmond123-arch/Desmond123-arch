@@ -41,3 +41,4 @@ Small things I create while learning
   ### 📊 Stats
 ![Desmond123-arch's Stats](https://github-readme-stats.vercel.app/api?username=Desmond123-arch&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Desmond123-arch's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Desmond123-arch&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+[![An image of @desmond123arch's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/desmond123arch)](https://holopin.io/@desmond123arch)
